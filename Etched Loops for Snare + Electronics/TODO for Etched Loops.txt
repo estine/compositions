@@ -1,29 +1,27 @@
 TODO for etched loops (electronics):
 
-Make cassette slightly less harsh (soothe2)
-Make cue in even clearer
+Make cassette slightly less harsh (soothe2) !
+Make cue in even clearer !
 
 Continue little embellishments (but note in score they’re not included)
 
-Add in bass when it’s needed (either freq. domain. shift of materials or reese)
-Make moments of intensity go to (ping pong delay, reverb, amp sim, stereo spread, digitalis glitch)
+Add in bass when it’s needed (either freq. domain. shift of materials or reese) !
+Make moments of intensity go to (ping pong delay, reverb, amp sim, stereo spread, digitalis glitch) !
 
-Add in sweeteners that enhance the reverb builds already present
+Add in sweeteners that enhance the reverb builds already present !
 
-Make bass drop into an actual bass, to be used as sweetener
-Louder bass drop in cool down time (+6 dB)
+Louder bass drop in cool down time (+6 dB) !
 
-Make ending sound glitch a bit
-Make ending bloops get louder, rather than quieter
-One other thing for ending: use low pass on sustained material, so that the repeated “bleep bleep” will pop
+Make ending bloops get louder, rather than quieter !
+One other thing for ending: use low pass on sustained material, so that the repeated “bleep bleep” will pop !
 
 //
 
 TODO for etched loops (snare part):
 
-The free sections (with the snare hits) are only times when not notated on single line
+The free sections (with the snare hits) are only times when not notated on single line !
 
-Beginning starts as call and response, but moves to in-sync at first kick drum in
+Beginning starts as call and response, but moves to in-sync at first kick drum in !
 
 Write out all time signatures first, then start putting in licks that match/work off of the electronics (these should be prescriptive rhythmically, not completely descriptive, with accents and dynamics as a way to suggest technique).
 
