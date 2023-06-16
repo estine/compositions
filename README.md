@@ -7,6 +7,6 @@ A repository of musical compositions by Eli Stine
 
 - Unfreed - originally for bassoon and electronics (for Molly Murphy), to be adapted for cello and electronics (for Oona Lowther)
 
-- Untitled snare drum and electronics piece (for Will Dahle)
+- Untitled snare drum and electronics piece (for Will Dahle) - completed and performed!
 
 
