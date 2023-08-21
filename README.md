@@ -10,6 +10,6 @@ A repository of musical compositions by Eli Stine
     - [ ] Remake electronics, first outlining harmonic materials and major landmarks, then crafting hybrid electroacoustic synthesizers and sound generators
     - [ ] Increase playability of the work
 
-- [x] Untitled snare drum and electronics piece (for Will Dahle) - completed and performed!
+- [x] Etched Loops - for snare drum and electronics (for Will Dahle, Oberlin '24) - completed and performed!
 
 
